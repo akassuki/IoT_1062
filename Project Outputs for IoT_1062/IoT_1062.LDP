@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\du_an\2601\IoT_1062.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=iot_1062-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=iot_1062-slotholes.txt|DrillLayers=gtl,gbl

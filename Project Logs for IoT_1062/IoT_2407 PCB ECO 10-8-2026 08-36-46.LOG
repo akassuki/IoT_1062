@@ -1,0 +1,5 @@
+Change Component Description : Designator=U12 Old Description=8-BIT INPUT/OUTPUT EXPANDER, I2C INTERFACE New Description=8-BIT INPUT/OUTPUT EXPANDER, I2C INTERFACE | Microchip Technology Inc. MCP23008-E/SO
+Change Component Description : Designator=D7 Old Description=Indicator,LED PCB Thru-Hole Bulb 2 mm Red/Yellow/Green Diffused, Tinted Round New Description=Indicator,LED PCB Thru-Hole Bulb 2 mm Red/Yellow/Green Diffused, Tinted Round | Dialight 570-0100-132F
+Added Room: Name=connection
+Added Room: Name=Nguon
+Added Room: Name=vi_dieu_khien
